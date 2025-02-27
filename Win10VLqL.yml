@@ -4,9 +4,9 @@ services:
     container_name: windows
     environment:
       VERSION: "11"
-      USERNAME: "hello"
+      USERNAME: "coder"
       PASSWORD: "#niggas69"
-      RAM_SIZE: "10G"
+      RAM_SIZE: "8G"
       CPU_CORES: "4"
       DISK_SIZE: "1024G"
     devices:
