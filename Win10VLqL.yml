@@ -6,9 +6,9 @@ services:
       VERSION: "11"
       USERNAME: "coder"
       PASSWORD: "#niggas69"
-      RAM_SIZE: "4G"
+      RAM_SIZE: "10G"
       CPU_CORES: "4"
-      DISK_SIZE: "500G"
+      DISK_SIZE: "1050G"
     devices:
       - /dev/kvm
       - /dev/net/tun
